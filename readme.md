@@ -1,4 +1,4 @@
-# 🗨️ GupShup — Real-Time Chat App
+# 🗨️ Real-Time Chat App
 
 A modern **real-time chat application** built using the **MERN stack** with **DaisyUI** for beautiful, responsive UI and **Socket.io** for instant communication.  
 It supports **user authentication**, **secure sessions**, and **real-time updates** — all in a sleek, modern design.
